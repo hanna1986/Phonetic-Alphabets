@@ -1,1 +1,2 @@
 .DS_Store
+/scr/__pycache__/*.pyc
