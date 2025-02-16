@@ -1,5 +1,10 @@
-__pycache__/
-*.pyc
+# Virtual environment
+.venv/
 venv/
-*.venv
-*.DC_Store
+
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# MacOS files
+.DS_Store
